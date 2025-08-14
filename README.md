@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maverick820
 - 👀 I’m interested in computer science and mathematics
-- 🌱 I’m currently learning front end developing
+- 🌱 I’m currently learning back end developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pkakariaris@yahoo.com
 - 😄 Pronouns: he/him
